@@ -1,4 +1,4 @@
-# Cross GCC-4.9 toolchain Linux to Raspberry Pi 
+# Cross GCC-4.9 toolchain for Raspberry Pi 
 
 ## Description
 
