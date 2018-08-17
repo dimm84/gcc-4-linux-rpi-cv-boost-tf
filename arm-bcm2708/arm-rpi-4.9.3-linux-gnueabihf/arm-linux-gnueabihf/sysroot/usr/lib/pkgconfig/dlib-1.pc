@@ -1,0 +1,9 @@
+libdir=/home/dkapitanov/Programming/RPI/dlib-19.15/build/install/lib
+includedir=/home/dkapitanov/Programming/RPI/dlib-19.15/build/install/include
+
+Name: dlib
+Description: Numerical and networking C++ library
+Version: 19.15.0
+Libs: -L${libdir} -ldlib
+Cflags: -I${includedir}
+Requires:
